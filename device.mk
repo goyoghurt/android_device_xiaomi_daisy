@@ -39,6 +39,10 @@ AB_OTA_PARTITIONS += \
     boot \
     system
 
+PRODUCT_PACKAGES += \
+    update_engine \
+    update_engine_client
+
 # AID/fs configs
 PRODUCT_PACKAGES += \
     fs_config_files
