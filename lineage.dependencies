@@ -1,6 +1,6 @@
 [
  { 
-    "repository": "33bca/android_kernel_xiaomi_msm8953",
+    "repository": "goyoghurt/android_kernel_xiaomi_msm8953",
     "target_path": "kernel/xiaomi/msm8953",
     "branch": "lineage-16.0",
     "remote": "github"
