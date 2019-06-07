@@ -18,12 +18,8 @@ lib64/libmdsprpc_system.so
 lib64/libsdsprpc_system.so
 
 # Bluetooth
-lib/android.hardware.bluetooth@1.0.so
 lib/android.hardware.bluetooth.a2dp@1.0.so
-lib/libbluetooth.so
-lib64/android.hardware.bluetooth@1.0.so
 lib64/android.hardware.bluetooth.a2dp@1.0.so
-lib64/libbluetooth.so
 
 # Bluetooth (aptX) - from crosshatch - PD1A.180720.030
 lib64/libaptX_encoder.so|0cebad28afcf29f931bdc2d24fce2730dc882ecf
@@ -223,10 +219,13 @@ etc/wfdconfig.xml
 etc/wfdconfigsink.xml
 lib/com.qualcomm.qti.wifidisplayhal@1.0.so
 lib/extractors/libmmparser.so
+lib/libaacwrapper.so
 lib/libdisplayconfig.so
 lib/libFileMux.so
 lib/libmmosal.so
 lib/libmmparser_lite.so
+lib/libmmrtpdecoder.so
+lib/libmmrtpencoder.so
 lib/libOmxMux.so
 lib/libqdMetaData.system.so
 lib/libwfdavenhancements.so
